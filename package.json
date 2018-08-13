@@ -1,6 +1,6 @@
 {
   "name": "moment",
-  "version": "8.0.0",
+  "version": "2.2.0",
   "description": "",
   "main": "./dist/moment.js",
   "jsnext:main": "./dist/moment.js",
