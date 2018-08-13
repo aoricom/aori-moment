@@ -1,0 +1,19 @@
+{
+  "name": "moment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/moment.js",
+  "jsnext:main": "./dist/moment.js",
+  "module": "./dist/moment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "moment": "^4.17.10",
+    "rollup": "^0.64.1",
+    "rollup-plugin-minify-es": "^1.1.1",
+    "rollup-plugin-node-resolve": "^3.3.0"
+  }
+}
